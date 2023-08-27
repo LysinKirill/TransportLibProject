@@ -1,0 +1,9 @@
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\bin\Debug\Utilities.dll
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\bin\Debug\TransportLib.dll
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\bin\Debug\TransportLib.pdb
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\obj\Debug\Utilities.dll
+C:\Users\Kirill\RiderProjects\SR2_F\Utilities\obj\Debug\Utilities.pdb

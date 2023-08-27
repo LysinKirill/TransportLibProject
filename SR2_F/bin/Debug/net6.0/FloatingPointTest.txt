@@ -1,0 +1,10 @@
+Car Lame 40 15,14
+Car Bugatti 60 25
+Motorcycle Lincoln 40 12,541
+
+Car LightningMcQueen 54,192 15
+gahglj
+Motorcycle DesertEagle 20 14,99
+Motorcycle LunarRover 24 15,01
+afroiv
+Motorcycle Lisp 41,410 14,141

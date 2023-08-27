@@ -1,0 +1,6 @@
+C:\Users\Kirill\RiderProjects\SR2_F\TransportLib\bin\Debug\TransportLib.dll
+C:\Users\Kirill\RiderProjects\SR2_F\TransportLib\bin\Debug\TransportLib.pdb
+C:\Users\Kirill\RiderProjects\SR2_F\TransportLib\obj\Debug\TransportLib.csproj.AssemblyReference.cache
+C:\Users\Kirill\RiderProjects\SR2_F\TransportLib\obj\Debug\TransportLib.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\RiderProjects\SR2_F\TransportLib\obj\Debug\TransportLib.dll
+C:\Users\Kirill\RiderProjects\SR2_F\TransportLib\obj\Debug\TransportLib.pdb
